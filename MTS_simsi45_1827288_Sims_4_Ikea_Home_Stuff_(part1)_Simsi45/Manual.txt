@@ -1,0 +1,240 @@
+Brought to you by SIMSI45
+Follow me on modthesims/youtube for future mod releases!
+
+Modthesims: http://modthesims.info/member.php?u=7375828
+
+WATCH THE TRAILER HERE!
+https://youtu.be/dlHTUfIt9ag
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hey all! 
+I'm so excited to release my latest project:
+THE SIMS 4 IKEA HOME STUFF!
+
+This is a conversion of the entire "Sims 2 Ikea Home Stuff" Pack, made available for The Sims 4.
+
+Now your sims can decorate their homes, with affordable, stylish furniture from IKEA. 68 brand new items, including sofas, beds, dressers, lights, decor: everything you need to make your home happy.
+
+
+NOTES:
+
+1) EVERYTHING has been playtested within the game.
+2) I added A TON of custom recolors so you can mix and match to your liking. 
+3) All items contain the original names and descriptions. Some prices have been altered so they can fit better, within the rest of TS4's build/buy catalog entries.
+4) I modified and added a couple *brand new* additional meshes (such as the KARLSTAD loveseat) to make the sets feel complete.
+5) The pillows of the "KLIPPAN Sofas", have been slightly modified because there was some clipping with the original meshes.(I also added a brand new mesh without the pillows)
+6) The "EXPEDIT TV Unit" has been split apart. The TV and the unit are two separate objects. The Unit itself, acts as a bookshelf with slots to put clutter and the TV on.
+7) The "FROG Plushie" is a brand new mesh (split from the LACK Shelf) to replace the "heart pillow" from the original pack. For some reason I couldn't get the original pillow to work. Fortunately, frogs are cuter than hearts.
+
+
+What's Included??
+
+This is a list of everything included in this pack,categorised by function. Some items will appear in multiple categories.
+
+COMFORT
+Comfort/Beds:
+1.MALM Single Bed   - 360$
+2.MALM Double Bed   - 580$
+3.HEMNES Single Bed - 480$
+4.HEMNES Double Bed - 730$
+5.ANES Double Bed   - 710$
+
+Comfort/Living Chairs:
+6.EKTORP Armchair   - 460$
+7.KARLSTAD Armchair - 440$
+8.POANG Armchair    - 130$
+
+Comfort/Loveseats:
+9.EKTORP Two Seat Sofa   - 630$
+10.KARLSTAD Two Seat Sofa - 575$ *custom mesh made by me*
+11.KLIPPAN Two Seat Sofa  - 365$
+
+Comfort/Sofas:
+12.EKTORP Three Seat Sofa - 660$
+13.KARLSTAD Sofa          - 700$
+14.KLIPPAN Sofa           - 510$ 
+15.KLIPPAN Sofa (Lite)    - 500$ *custom mesh made by me*
+
+Comfort/Dining Chairs:
+16.JULES Visitors Chair - 55$
+
+
+SURFACES
+Surfaces/Coffee Tables:
+17.LEKSVIK Coffee Table - 175$
+18.IMFORS Coffee Table  - 190$
+
+Surfaces/Tables:
+19.VIKA/GREVSTA Table - 160$
+20.VIKA/HYTTAN Table  - 225$
+
+Surfaces/Accent Tables:
+21.LACK Side Table            - 20$
+22.HATTEN Side Table          - 40$
+23.MALM Chest of Two Drawers  - 60$
+24.HEMNES Bedside Table       - 75$
+25.HEMNES Round Bedside Table - 145$
+
+Surfaces/Desks:
+26.FREDRIK Workstation - 300$
+
+Surfaces/Misc:
+27.HELMER Drawer Unit on Castors - 58$
+28.IKEA PS Cabinet               - 146$
+
+DECORATIONS
+Decor/Plants:
+29.BLADET 3 Plant Pots - 23$
+30.VASEN Vase          - 29$
+
+Decor/Paintings:
+31.RIBBA Frame               - 31$
+32.BILD, Doggy Dream         - 39$
+33.BILD, Poster Yin and Yang - 45$
+34.PJATTERYD Picture         - 102$
+35.PJATTERYD Picture Zebra   - 102$
+36.PREMIAR Picture, NYC      - 289$
+
+Decor/Mirrors:
+37.KRABB Mirror        - 29$
+38.KRABB Mirror (tall) - 35$
+39.VANNA Mirror        - 58$
+40.MONGSTAD Mirror     - 146$
+41.HEMNES Mirror       - 150$
+
+Decor/Sculptures:
+42.RAKET Table Easel   - 30$
+43.IKEA STOCKHOLM Vase - 59$
+
+Decor/Clutter:
+44.IKEA Minnen Groda Frog Pillow Plush - 17$
+
+Decor/Rugs:
+45.RINGUM Rug  - 15$
+46.SVEJE Rug   - 25$
+47.ULDUM Rug   - 363$
+48.IKEA PS Rug - 436$
+
+Decor/Wall Decorations:  
+49.LACK Wall Shelf.1 - 32$
+50.LACK Wall Shelf.2 - 44$
+51.LACK Wall Shelf.3 - 58$
+
+Decor/Misc:
+52.BENNO CD Tower - 75$
+
+LIGHTING
+Lighting/Table Lamps:
+53.KILA Work Lamp     - 25$
+54.LAMPAN Table Lamp  - 26$
+55.MYLONIT Table Lamp - 30$
+
+Lighting/Floor Lamps:
+56.MAREK Lamp       - 50$
+57.STORM Floor Lamp - 90$
+
+Lighting/Ceiling Lamps:
+58.REGOLIT Pendant Lamp Shade - 65$
+
+ELECTRONICS
+Electronics/Televisions:
+59.EXPEDIT Flat-Panel TV   - 1750$
+
+Electronics/Misc
+60.IKEA PS Clock - 73$
+
+STORAGE
+Storage/Bookshelves:
+61.BILLY Bookcase          - 190$
+62.EXPEDIT TV Storage Unit - 550$
+
+Storage/Dressers: 
+63.MALM Chest of 3 drawers   - 120$
+64.MALM Chest of 6 drawers   - 190$
+65.HEMNES Chest of 3 drawers - 220$
+66.HEMNES Chest of 6 drawers - 340$
+67.ANES Chest of 4 drawers   - 290$
+68.ODDA Wardrobe             - 440$
+
+
+This is a 2 part download (had to split due to size): 
+~Part 1 includes everything except the beds.
+~Part 2 includes the beds ONLY.
+
+
+POLYGON COUNTS:             HIGH/MEDIUM/LOW LODS
+
+1.MALM Single Bed          - 674/571
+2.MALM Double Bed          - 916/853
+3.HEMNES Single Bed        - 1056/1056
+4.HEMNES Double Bed        - 1378/1233
+5.ANES Double Bed          - 2034/1517
+6.EKTORP Armchair          - 958/958/765
+7.KARLSTAD Armchair        - 1050/1050/757
+8.POANG Armchair           - 1618/1335
+9.EKTORP Two Seat Sofa     - 1534/924/467
+10.KARLSTAD Two Seat Sofa  - 2202/2202/1147
+11.KLIPPAN Two Seat Sofa   - 1707/1708/581
+12.EKTORP Three Seat Sofa  - 1972/1972/1186
+13.KARLSTAD Sofa           - 2218/2218/1137
+14.KLIPPAN Sofa            - 2508/2508/1588
+15.KLIPPAN Sofa (Lite)     - 1676/1676/810
+16.JULES Visitors Chair    - 1056/1056/560
+17.LEKSVIK Coffee Table    - 874/874/600
+18.IMFORS Coffee Table     - 892/892/397
+19.VIKA/GREVSTA Table      - 751
+20.VIKA/HYTTAN Table       - 946
+21.LACK Side Table         - 138/138/138
+22.HATTEN Side Table       - 1136-1136
+23.MALM Chest of 2 Drawers - 289/289/289
+24.HEMNES Bedside Table    - 458/458/458
+25.HEMNES Round Table      - 1550/1550/1049
+26.FREDRIK Workstation     - 1514
+27.HELMER Drawer Unit on Castors - 893/893/313
+28.IKEA PS Cabinet         - 802
+29.BLADET 3 Plant Pots     - 1064/387/387
+30.VASEN Vase              - 1089/835/661
+31.RIBBA Frame             - 426/196/196
+32.BILD, Doggy Dream       - 222/166/166
+33.BILD, Poster Yin and Yang - 222/164/164
+34.PJATTERYD Picture       - 164
+35.PJATTERYD Picture Zebra - 164
+36.PREMIAR Picture, NYC    - 164
+37.KRABB Mirror            - 542
+38.KRABB Mirror (tall)     - 570
+39.VANNA Mirror            - 768
+40.MONGSTAD Mirror         - 92
+41.HEMNES Mirror           - 456
+42.RAKET Table Easel       - 506/324/151
+43.IKEA STOCKHOLM Vase     - 682/538/448
+44.IKEA Minnen Groda Frog Pillow Plush - 1026/451
+45.RINGUM Rug              - 192
+46.SVEJE Rug               - 4
+47.ULDUM Rug               - 64
+48.IKEA PS Rug             - 236
+49.LACK Wall Shelf.1       - 1246/886/540
+50.LACK Wall Shelf.2       - 304/304/292
+51.LACK Wall Shelf.3       - 855/855/610
+52.BENNO CD Tower          - 1538/1430/1093
+53.KILA Work Lamp          - 736/433
+54.LAMPAN Table Lamp       - 816/816
+55.MYLONIT Table Lamp      - 777/777
+56.MAREK Lamp              - 1126/1126
+57.STORM Floor Lamp        - 726/582
+58.REGOLIT Pendant Lamp Shade - 590/590
+59.EXPEDIT Flat-Panel TV   - 2338/2338/1517
+60.IKEA PS Clock           - 376/372
+61.BILLY Bookcase          - 1222/716
+62.EXPEDIT TV Storage Unit - 550$
+63.MALM Chest of 3 drawers   - 466/320/320
+64.MALM Chest of 6 drawers   - 628/444/444
+65.HEMNES Chest of 3 drawers - 813/813/433
+66.HEMNES Chest of 6 drawers - 1250/1250/765
+67.ANES Chest of 4 drawers   - 864/477477
+68.ODDA Wardrobe             - 1132/1132/518
+
+Additional Credits:
+EA/Maxis for providing the original meshes from TS2
+Blender
+Sims 4 Studio
+Photoshop
